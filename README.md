@@ -1,3 +1,5 @@
-# Student-attendance-management-system.
+# Student-result-management-system.
 
-This is a simple attendance management sysytem with php backend.
+This is a simple result management syytem with php backend.
+Hosting of the website can be done  by XAMPP(handles the database and server for this).
+
